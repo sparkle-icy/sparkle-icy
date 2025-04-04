@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**sparkle-icy/sparkle-icy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Sparkle 💖
+I am a passionate programmer/software developer. I love making website designs and art.
+## I code in these languages:
+- HTML 📟
+- CSS 📟
+- JS 📟
+- Python 🐍
+## Goals:
+- Get a verified Discord bot ✅
+- Become famous (not gonna happen) ⭐
+## Hobbies
+- Gaming 🎮
+- Sleeping 💤
+- Reading 📕
+Check my full about me: https://sparkle-icy.github.io/sparkle/
+-# © 2025 - Sparkle
