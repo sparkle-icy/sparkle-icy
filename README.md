@@ -12,5 +12,6 @@ I am a passionate programmer/software developer. I love making website designs a
 - Gaming 🎮
 - Sleeping 💤
 - Reading 📕
+### More
 Check my full about me: https://sparkle-icy.github.io/sparkle/
--# © 2025 - Sparkle
+© 2025 - Sparkle
